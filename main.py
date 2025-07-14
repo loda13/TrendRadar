@@ -32,7 +32,7 @@ CONFIG = {
     "MESSAGE_BATCH_SIZE": 4000,  # 消息分批大小（字节）
     "BATCH_SEND_INTERVAL": 1,  # 批次发送间隔（秒）
     # 飞书机器人的 webhook URL
-    "FEISHU_WEBHOOK_URL": "",
+    "FEISHU_WEBHOOK_URL": "https://open.xfchat.iflytek.com/open-apis/bot/v2/hook/575d812f-a6a1-4252-952a-0b3fa51e9b19",
     # 钉钉机器人的 webhook URL
     "DINGTALK_WEBHOOK_URL": "",
     # 企业微信机器人的 webhook URL
